@@ -1,0 +1,6 @@
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Facade\bin\Debug\Facade.exe.config
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Facade\bin\Debug\Facade.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Facade\bin\Debug\Facade.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Facade\obj\Debug\Facade.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Facade\obj\Debug\Facade.pdb

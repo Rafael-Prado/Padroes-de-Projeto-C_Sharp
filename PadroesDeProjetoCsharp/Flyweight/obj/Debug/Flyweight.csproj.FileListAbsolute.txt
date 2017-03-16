@@ -1,0 +1,6 @@
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Flyweight\obj\Debug\Flyweight.pdb

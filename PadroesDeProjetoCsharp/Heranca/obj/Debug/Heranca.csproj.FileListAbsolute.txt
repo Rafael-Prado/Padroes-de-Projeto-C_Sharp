@@ -1,0 +1,5 @@
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Heranca\bin\Debug\Heranca.exe.config
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Heranca\bin\Debug\Heranca.exe
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Heranca\bin\Debug\Heranca.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Heranca\obj\Debug\Heranca.exe
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Heranca\obj\Debug\Heranca.pdb

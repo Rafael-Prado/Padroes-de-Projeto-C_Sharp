@@ -1,0 +1,6 @@
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Prototype\bin\Debug\Prototype.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Prototype\obj\Debug\Prototype.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Prototype\obj\Debug\Prototype.pdb

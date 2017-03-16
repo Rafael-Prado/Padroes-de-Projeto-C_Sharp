@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Classes\bin\Debug\Classes.exe.config
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Classes\bin\Debug\Classes.exe
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Classes\bin\Debug\Classes.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Classes\obj\Debug\Classes.exe
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Classes\obj\Debug\Classes.pdb

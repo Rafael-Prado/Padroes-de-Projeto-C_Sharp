@@ -1,0 +1,6 @@
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Bridge\bin\Debug\Bridge.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Bridge\obj\Debug\Bridge.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Bridge\obj\Debug\Bridge.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache

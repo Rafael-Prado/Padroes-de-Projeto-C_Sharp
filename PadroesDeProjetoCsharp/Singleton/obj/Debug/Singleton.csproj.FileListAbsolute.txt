@@ -1,0 +1,5 @@
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Singleton\bin\Debug\Singleton.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Singleton\obj\Debug\Singleton.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Singleton\obj\Debug\Singleton.pdb

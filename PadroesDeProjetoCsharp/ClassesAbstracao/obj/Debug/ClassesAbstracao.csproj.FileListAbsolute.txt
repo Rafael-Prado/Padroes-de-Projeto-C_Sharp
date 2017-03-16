@@ -1,0 +1,6 @@
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\ClassesAbstracao\bin\Debug\ClassesAbstracao.exe.config
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\ClassesAbstracao\bin\Debug\ClassesAbstracao.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\ClassesAbstracao\bin\Debug\ClassesAbstracao.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\ClassesAbstracao\obj\Debug\ClassesAbstracao.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\ClassesAbstracao\obj\Debug\ClassesAbstracao.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\ClassesAbstracao\obj\Debug\ClassesAbstracao.pdb

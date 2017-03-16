@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Encapsulamento\bin\Debug\Encapsulamento.exe
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Encapsulamento\bin\Debug\Encapsulamento.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Encapsulamento\obj\Debug\Encapsulamento.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Encapsulamento\obj\Debug\Encapsulamento.exe
+c:\users\rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\Encapsulamento\obj\Debug\Encapsulamento.pdb

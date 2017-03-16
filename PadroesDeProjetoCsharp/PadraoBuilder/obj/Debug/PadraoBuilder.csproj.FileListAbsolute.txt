@@ -1,0 +1,6 @@
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoBuilder\bin\Debug\PadraoBuilder.exe.config
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoBuilder\bin\Debug\PadraoBuilder.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoBuilder\bin\Debug\PadraoBuilder.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoBuilder\obj\Debug\PadraoBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoBuilder\obj\Debug\PadraoBuilder.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoBuilder\obj\Debug\PadraoBuilder.pdb

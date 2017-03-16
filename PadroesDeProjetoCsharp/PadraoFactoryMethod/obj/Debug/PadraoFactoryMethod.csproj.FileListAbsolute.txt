@@ -1,0 +1,6 @@
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoFactoryMethod\bin\Debug\PadraoFactoryMethod.exe.config
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoFactoryMethod\bin\Debug\PadraoFactoryMethod.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoFactoryMethod\bin\Debug\PadraoFactoryMethod.pdb
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoFactoryMethod\obj\Debug\PadraoFactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoFactoryMethod\obj\Debug\PadraoFactoryMethod.exe
+C:\Users\Rafael\documents\visual studio 2015\Projects\PadroesDeProjetoCsharp\PadraoFactoryMethod\obj\Debug\PadraoFactoryMethod.pdb
